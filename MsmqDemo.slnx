@@ -1,4 +1,8 @@
 <Solution>
-  <Folder Name="/MsmqReceiver/" />
-  <Folder Name="/MsmqSender/" />
+  <Folder Name="/MsmqReceiver/">
+    <Project Path="MsmqReceiver/MsmqReceiver.csproj" />
+  </Folder>
+  <Folder Name="/MsmqSender/">
+    <Project Path="MsmqSender/MsmqSender.csproj" />
+  </Folder>
 </Solution>
